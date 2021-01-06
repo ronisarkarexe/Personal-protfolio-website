@@ -1,0 +1,154 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.navber{
+    width: 100%;
+    height: 40px;
+    background-color:rgb(255, 255, 255);
+}
+.navber ul{
+    margin-right: 60px;
+    float:right;
+}
+.navber ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    margin-left: 30px;
+}
+.navber ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-size:40px;
+}
+h2{
+    font-size: 30px;
+}
+.color-tex{
+    margin:0px;
+    padding: 0px;
+    line-height: 1px;
+    color: tomato;
+}
+p{
+    margin-top: 25px;
+}
+
+.div-wrapper{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.div-wrapper img{
+    width: 100%;
+    height: auto;
+}
+.buttons{
+    text-decoration: none;
+    color: white;
+    background-color: #fa6e5a;
+    padding: 5px 25px;
+    border-radius: 3px;
+}
+section{
+   height: 480px;
+   padding-top: 2%;
+   padding-right: 5%;
+}
+.div-wrapper .hello-sec{
+    top: 50%;
+    transform: translate(20%);
+}
+.div-wrapper .my-image{
+    top: 40%;
+    transform:translate(-10%, -30%)
+}
+.Cards{
+    background-color: #E3E6E3;
+    height: 600px;
+    width: 100%;
+}
+
+#text{
+  text-align: center;
+}
+
+.Cards-desing{
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border: 8px solid white;
+    border-radius: 10px;
+    margin:0px 47px;
+    box-shadow: 10px 10px 20px black;
+    float: left;
+    align-items: center;
+}
+.image img{
+    width: 100%;
+}
+
+.footer{
+    height: 500px;
+}
+
+.footer-div1 img{
+    width: 60%;
+    margin: 5% 20%;
+}
+.footer-div2 h1{
+    font-weight: bold;
+    color: white;
+    margin-top: -15%;
+    padding-left: 25%;
+    padding-top: -20%;
+}
+
+.footer-div3{
+    margin-left: 68%;
+    margin-top: -5%;
+}
+.footer-div4{
+    text-align:center;
+    margin-top: 11%;
+    margin-bottom: 0px;
+}
+.footer-div4 h2{
+    font-weight: bold;
+    
+}
+.footer-div4 h4{
+    color: gray;
+}
+.social-media{
+    margin: 0 auto;
+    margin-left:43% ;
+}
+.social-media img{
+    width: 4%;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
